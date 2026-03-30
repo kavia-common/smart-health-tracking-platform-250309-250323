@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/smart-health-tracking-platform-250309-250323/frontend_web"
+}
